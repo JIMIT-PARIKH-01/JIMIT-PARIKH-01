@@ -58,6 +58,20 @@ Every toolkit is **pure-Python (stdlib-first)**, ships a **CLI + GUI**, and has
 
 ---
 
+## ⬇️ Get the tools
+
+Every repo has its own **Download & Install** section (clone · ZIP · `pip install git+…`).
+**Public tools install freely.** For any **private** tool, access is gated through
+GitHub — see **[ACCESS.md](./ACCESS.md)**:
+
+```
+request  ->  I approve  ->  GitHub adds you as a collaborator  ->  you can clone/download
+```
+
+🔒 Need a private tool? **[Open an access request](https://github.com/JIMIT-PARIKH-01/JIMIT-PARIKH-01/issues/new?template=tool-access-request.md)** or message me on [LinkedIn](https://www.linkedin.com/in/jimit-devangkumar-parikh/) with your GitHub username.
+
+---
+
 ## 🧠 Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
